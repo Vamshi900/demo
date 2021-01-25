@@ -10,5 +10,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "farmers" :[ {
+     "id" : 0,
+     "name" : "Vasanth",
+     "sonof": "Abcd",
+    "village" : " khammam",
+    "mandal" : "mandal-1",
+    "district" : "Kahammam",
+    "mobile" : " 90000"  
+  },
+  ],
 }
